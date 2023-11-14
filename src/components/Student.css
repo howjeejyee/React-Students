@@ -1,0 +1,24 @@
+.studentContainer {
+    background-color: #c8e6c9; 
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    padding: 20px;
+  }
+  
+  .studentName {
+    font-weight: bold;
+    color: #004d40; 
+  }
+  
+  .studentBio {
+    font-style:italic;
+    font-size: 14px;
+    color: #00695c; 
+  }
+  
+  .scores {
+    margin-top: 10px;
+  }
+  
+  
